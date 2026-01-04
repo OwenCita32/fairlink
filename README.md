@@ -27,4 +27,4 @@ supported by AI-generated insights.
 - Purpose-bound analysis
 
 ## Demo
-See demo video link in submission.
+https://youtu.be/kbgC2k0ArzA
